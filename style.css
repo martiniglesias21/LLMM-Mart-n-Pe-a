@@ -1,0 +1,124 @@
+@font-face {
+    font-family:"breaking";
+    src: url(font/Breaking\ Bad.ttf);
+}
+.index{
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.p1{
+    color: white;
+    font-family: "breaking";
+    font-size: 28px;
+}
+#poster{
+    border: 10px outset brown;
+    border-radius: 22px;
+    
+    width: 700px;
+    height: 300px;
+}
+.tabla{
+    font-family: helvetica;
+    text-align: center;
+    background-color: #0c3e11;
+}
+.table1{
+    margin: auto;
+    border: 2px solid black;
+    width: 1130px;
+    height: 770px;
+}
+.table2{
+    margin: auto;
+    border: 2px solid black;
+    width: 1000px;
+    height: 120px;
+}
+
+.celda{
+    position: relative;
+    border: 3px solid black;
+    width: 70px;
+    height: 70px;
+    font-size: 48px;
+}
+.celda2{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    background-color: #E9E982;
+    font-size: 48px;
+}
+figcaption{
+    font-size: 14px;
+}
+.foto{
+    padding-top: 0%;
+}
+.foto2{
+    margin-bottom: 0px;
+}
+#negro{
+    background-color: black;
+}
+#fotoH{
+    margin: 0;
+}
+#verde{
+    background-color: #ABEA50;
+}
+#blanco{
+    background-color: white;
+}
+#violeta{
+    background-color: #B68CE0;
+}
+#verdeoscuro{
+    background-color: #56765F;
+}
+#verdeclaro{
+    background-color: #B5E793;
+}
+#gris{
+    background-color: #C9CCC7;
+}
+#verdefeo{
+    background-color: #7B8873;
+}
+#verdearbol{
+    background-color: #78A65C;
+}
+#ultimoverde{
+    background-color: #C2E3AF;
+}
+.formulario{
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: helvetica;
+}
+.form{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: left;
+    background-color: antiquewhite;
+}
+h1{
+    padding-top: 10px ;
+    color: antiquewhite;
+}
+h3{
+    padding-top: 10px;
+}
